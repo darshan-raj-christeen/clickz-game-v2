@@ -1,6 +1,7 @@
 {
   "name": "Clickz Game",
   "short_name": "Clickz",
+  "description": "A fun click-based game where players catch moving targets and earn points.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
