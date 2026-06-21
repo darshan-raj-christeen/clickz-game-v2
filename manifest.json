@@ -1,0 +1,39 @@
+{
+  "id": "/clickz-game-v2/",
+  "name": "Clickz Game",
+  "short_name": "Clickz",
+  "description": "A fun click-based game where players catch moving targets and earn points.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "orientation": "portrait",
+
+  "categories": ["games", "entertainment"],
+
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+"screenshots": [
+  {
+    "src": "Screenshot1.png",
+    "sizes": "1920x1080",
+    "type": "image/png"
+  },
+  {
+    "src": "Screenshot2.png",
+    "sizes": "1920x1080",
+    "type": "image/png"
+  }
+]
+}
